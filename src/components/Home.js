@@ -7,7 +7,7 @@ function Home() {
     <div className="home_container">
       <div className="loader"></div>
       <img src={logo} />
-      <h1>Welcom to NARUTO CENTER</h1>
+      <h1>WELCOME TO NARUTO CENTER</h1>
       <p>Naruto Center where the enovation at your fingertips!</p>
       <Link to='/landing'><button to='/landing'>View The List</button></Link>
       <div class="elfsight-app-e020585a-69ae-4291-87df-3b67169af5cf"></div>
