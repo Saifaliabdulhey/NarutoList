@@ -63,7 +63,7 @@ function App() {
       <Router>
         <Routes>
           <Route path="/landing" element={<LandingPage />} />
-          <Route path="/naruto" element={<Home />} />
+          <Route path="/narutolist" element={<Home />} />
           <Route path="/landing/california" element={<California />} />
           <Route path="/landing/southDakota" element={<SouthDakota />} />
           <Route path="/landing/southCarolina" element={<SouthCarolina />} />
